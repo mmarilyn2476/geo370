@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "UNCHOUSE4326NEW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -82.191737477663295, 35.257536900319302 ], [ -82.191659388909628, 35.257607668252319 ], [ -82.191522733590702, 35.257492975395365 ], [ -82.191630105626999, 35.25743196855656 ], [ -82.191737477663295, 35.257536900319302 ] ] ] ] } }
+]
+}
