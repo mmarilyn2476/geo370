@@ -29,7 +29,7 @@
       var map = L.map('map', { attributionControl: false } ).setView([41.860882586196084, -87.62118616642161], 14.0);
       L.control.attribution( { prefix: false } ).addTo( map );
       
-      var tilesource_layer = L.tileLayer('file:////Users/marilyncastillo/Documents/GitHub/geo370/homework5/tile_layer/{z}/{x}/{y}.png', {
+      var tilesource_layer = L.tileLayer('./tile_layer/{z}/{x}/{y}.png', {
         minZoom: 12,
         maxZoom: 16,
         tms: false,
