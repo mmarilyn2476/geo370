@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "airport_new_building",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.017727707256057, 42.361337502539705 ], [ -71.018574638125287, 42.361211217076232 ], [ -71.019406296267263, 42.363733371253652 ], [ -71.018343720124847, 42.363900584774662 ], [ -71.017727707256057, 42.361337502539705 ] ] ] ] } }
+]
+}
